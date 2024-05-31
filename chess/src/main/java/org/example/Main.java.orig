@@ -2,8 +2,11 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
 
+        System.out.println("Hello git!");
+=======
         System.out.println("Hello merge!");
-
+>>>>>>> 02cbc3aac07bdf2781b28345f3e895b0cbddc339
     }
 }
